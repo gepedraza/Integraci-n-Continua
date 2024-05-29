@@ -9,6 +9,7 @@
 ## Tabla de Contenidos
 - [Descripción](#descripción)
 - [Características](#características)
+- [Imagenes de referencia](#Imagenes de referencia)
   
 
 ## Descripción
@@ -18,5 +19,9 @@
 - ✨ **Característica 1**: Descripción de la característica 1.
 - 🚀 **Característica 2**: Descripción de la característica 2.
 - 🔒 **Característica 3**: Descripción de la característica 3.
+- ## Imagenes de referencia
+  ![image](https://github.com/gepedraza/Integraci-n-Continua/assets/171107140/dcf2a58e-c3b6-485b-aa1b-c5541c30e403)
+
+  
 
 
